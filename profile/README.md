@@ -14,13 +14,16 @@ Whether you are a developer seeking a customizable platform or a user looking fo
 
 ## ✨ Features
 - **Custom init system**
-ArcirisOS uses its own init sequence built with `noa-bootstrap`, enabling minimal overhead and precise control over system startup and service management.
+
+  ArcirisOS uses its own init sequence built with `noa-bootstrap`, enabling minimal overhead and precise control over system startup and service management.
 
 - **Asynchronous package verification**
-The `iris` package manager performs integrity checks on packages, ensuring system reliability without slowing down boot times.
+
+  The `iris` package manager performs integrity checks on packages, ensuring system reliability without slowing down boot times.
 
 - **Integrity**
-ArcirisOS tracks installed files for each package and can detect accidental corruption during package operations\n All changes are verifiable, auditable, and reversible
+
+  ArcirisOS tracks installed files for each package and can detect accidental corruption during package operations\n All changes are verifiable, auditable, and reversible
 
 ## 🌏 Community
 Creating now! comming soon...
